@@ -1,3 +1,8 @@
+# Legal Disclosure Obligation?
+I think a lawyer called me, but the voicemail was super broken sounding.  I'm posting this just in case:
+
+The incident I am referring to is posted in [this issue](https://github.com/jamesratzlaff/saw2023-ctf-challenge-1/issues/1)
+
 # saw2023-ctf-challenge-1
 This is where configs for our application go
 
